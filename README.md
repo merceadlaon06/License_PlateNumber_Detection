@@ -8,7 +8,7 @@ A Python-based Automatic Number Plate Recognition (ANPR) system that utilizes \*
 
 | Detection Result (GIF) | Static Output (PNG) |
 
-| !\[Demo GIF](prediction\_output/detect/test\_result.gif) | !\[Result PNG](prediction\_output/detect/test\_result.png) |
+!\[Demo GIF](prediction\_output/detect/test\_result.gif) | !\[Result PNG](prediction\_output/detect/test\_result.png)
 
 
 
